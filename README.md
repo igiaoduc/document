@@ -4,8 +4,10 @@
 3. api.igiaoduc.vn sẽ gọi vào API Site đối tác để lấy dữ liệu, lưu vào hệ thống, sau đó hiển thị cho người duyệt trên igiaoduc.vn
 4. Người duyệt xong sẽ  hiển thị lên website igiaoduc.vn
 
-# Cách gọi API trên site igiaoduc.vn
-https://github.com/igiaoduc/document/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-API-tr%C3%AAn-site-igiaoduc
+# Gọi API trên site igiaoduc.vn
+1. [Cách gọi API trên site igiaoduc.vn](https://github.com/igiaoduc/document/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-API-tr%C3%AAn-site-igiaoduc)
+2. [Danh sách các API của igiaoduc.vn](https://github.com/igiaoduc/document/wiki/Danh-s%C3%A1ch-c%C3%A1c-API-c%E1%BB%A7a-igiaoduc.vn)
+
 
 # API Server trên site igiaoduc.vn
 Website site https://igiaoduc.vn/ được viết bằng NukeViet 4.4
